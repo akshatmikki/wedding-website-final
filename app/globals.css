@@ -26,8 +26,8 @@ a{color:inherit}
 #intro{position:fixed;inset:0;z-index:50;overflow:hidden;transition:opacity .6s}
 #intro.gone{opacity:0;pointer-events:none}
 .pn{position:absolute;left:0;right:0;height:50%;background:var(--em-d);transition:transform 1.4s cubic-bezier(.7,0,.2,1)}
-.pn.t{top:0;border-bottom:1px solid var(--gold)}
-.pn.b{bottom:0;border-top:1px solid var(--gold)}
+.pn.t{top:0}
+.pn.b{bottom:0}
 #intro.open .pn.t{transform:translateY(-101%)}
 #intro.open .pn.b{transform:translateY(101%)}
 .emb{position:absolute;inset:0;z-index:2;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;text-align:center;padding:24px;color:var(--ivory);transition:opacity .5s}

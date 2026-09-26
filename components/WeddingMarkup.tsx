@@ -11,11 +11,11 @@ export default function WeddingMarkup() {
       <div id="intro" role="dialog" aria-label="Shaadi ka nimantran">
         <div className="pn t"></div><div className="pn b"></div>
         <div className="emb">
-          <svg viewBox="0 0 150 150" aria-hidden="true"><circle cx="75" cy="75" r="72" fill="none" stroke="#C8A45C" strokeWidth="1"/><circle cx="75" cy="75" r="66" fill="none" stroke="#C8A45C" strokeWidth=".6" strokeDasharray="1.5 4"/><text x="75" y="88" textAnchor="middle" fontFamily="Bodoni Moda,Georgia,serif" fontStyle="italic" fontSize="44" fill="#E6CF9A">A&#160;&amp;&#160;K</text></svg>
+          <svg viewBox="0 0 150 150" aria-hidden="true"><circle cx="75" cy="75" r="72" fill="none" stroke="#C8A45C" strokeWidth="1"/><circle cx="75" cy="75" r="66" fill="none" stroke="#C8A45C" strokeWidth=".6" strokeDasharray="1.5 4"/><text x="75" y="88" textAnchor="middle" fontFamily="Bodoni Moda,Georgia,serif" fontStyle="italic" fontSize="44" fill="#E6CF9A">S&#160;&amp;&#160;A</text></svg>
           <div className="sv">॥ श्री गणेशाय नमः ॥</div>
           <div className="nm">Somya &amp; Aman</div>
           <div className="sub">Shubh Vivah ka nimantran</div>
-          <button className="gbtn" id="openBtn" type="button">Invitation kholein</button>
+          <button className="gbtn" id="openBtn" type="button">Tap to open</button>
         </div>
       </div>
 
@@ -30,7 +30,7 @@ export default function WeddingMarkup() {
           <div className="htext">
             <p className="shk">॥ श्री गणेशाय नमः ॥</p>
             <h1 className="names foil" aria-label="Somya weds Aman"><span>Somya</span><em>weds</em><span>Aman</span></h1>
-            <div className="hmeta"><span><b>27</b> January 2027</span><span>Ravivaar</span><span id="heroPlace"></span></div>
+            <div className="hmeta"><span><b>21</b> February 2027</span><span>Ravivaar</span><span id="heroPlace"></span></div>
             <p className="lead">Do dil, do parivaar, ek jashn. Hamare naye safar mein aap sab ka aashirwad chahiye. Aaiye, haldi lagayein, dhol pe naachein aur baraat ke saath jhoomein.</p>
             <div className="count" id="count"></div>
           </div>
