@@ -1,7 +1,4 @@
 import type { Metadata, Viewport } from "next";
-// The stylesheet is processed by Next.js; suppress editor resolution errors
-// when the project's CSS type declarations are not picked up by TypeScript.
-// @ts-expect-error -- CSS side-effect imports are handled by Next.js.
 import "./globals.css";
 
 export const metadata: Metadata = {
