@@ -2,7 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Aarohi weds Kabir",
+  title: "Somya weds Aman",
   description: "Shubh Vivah ka nimantran - 21 February 2027, Jaipur",
 };
 

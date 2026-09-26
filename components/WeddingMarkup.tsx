@@ -13,7 +13,7 @@ export default function WeddingMarkup() {
         <div className="emb">
           <svg viewBox="0 0 150 150" aria-hidden="true"><circle cx="75" cy="75" r="72" fill="none" stroke="#C8A45C" strokeWidth="1"/><circle cx="75" cy="75" r="66" fill="none" stroke="#C8A45C" strokeWidth=".6" strokeDasharray="1.5 4"/><text x="75" y="88" textAnchor="middle" fontFamily="Bodoni Moda,Georgia,serif" fontStyle="italic" fontSize="44" fill="#E6CF9A">A&#160;&amp;&#160;K</text></svg>
           <div className="sv">॥ श्री गणेशाय नमः ॥</div>
-          <div className="nm">Aarohi &amp; Kabir</div>
+          <div className="nm">Somya &amp; Aman</div>
           <div className="sub">Shubh Vivah ka nimantran</div>
           <button className="gbtn" id="openBtn" type="button">Invitation kholein</button>
         </div>
@@ -93,7 +93,7 @@ export default function WeddingMarkup() {
           <p>Neeche wale chatbot se pooch lijiye, ya seedha parivaar se baat kar lijiye.</p>
           <div className="nums" id="nums"></div>
           <svg className="orn" aria-hidden="true"><use href="#orn"/></svg>
-          <div className="sig foil">Aarohi &amp; Kabir</div>
+          <div className="sig foil">Somya &amp; Aman</div>
           <p>Dhanyavaad. Milte hain shaadi mein.</p>
         </div>
       </footer>
